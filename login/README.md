@@ -4,17 +4,17 @@
 
 ### 1. Security fundamentals
 
--**Password hashing** Implementing salt and hashing using bcrypt
+- **Password hashing** Implementing salt and hashing using bcrypt
 
--**Stateless authentication** using jwt (token based)
+- **Stateless authentication** using jwt (token based)
 
--**Secret management** using **.env**
+- **Secret management** using **.env**
 
 ### 2. Backend Architecture
 
--**Middleware Patterns** for token verification on protected routes
+- **Middleware Patterns** for token verification on protected routes
 
--**Database Modeling** designing schemas
+- **Database Modeling** designing schemas
 
--**Input validation** Sanitize to prevent attacks
+- **Input validation** Sanitize to prevent attacks
 
